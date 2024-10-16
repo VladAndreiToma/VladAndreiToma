@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React/Vue and Java/spring to encapsulate my knowledge in JS, TS, html, css and server communication and also on server side programming
 - Keen interest in dev-ops and ML/AI
 - 💞️ I’m looking to collaborate on high end UI's for DAQ systems
-- 📫 How to reach me: vlad.toma@eli-np.ro
+- 📫 How to reach me: vladtepes99105@gmail.com
 - ⚡ Fun fact: free-time drummer
 
 <!---
