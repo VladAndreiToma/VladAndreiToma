@@ -4,6 +4,7 @@ About Me:
 👀 Interests:
 
 Theoretical and experimental physics
+
 Diverse programming paradigms
 🌱 Currently Mastering:
 
