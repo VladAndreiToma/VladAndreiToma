@@ -46,7 +46,7 @@ Django
 ⚡ Fun Fact: In my free time, I’m a drummer!
 
 📫 Reach Me At:
-Email: vladtepes99105@gmail.com
+Email: vlad.toma.engineering@gmail.com
 <!---
 VladAndreiToma/VladAndreiToma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
